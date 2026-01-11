@@ -1,16 +1,19 @@
-## Hi there 👋
+# pmk1d — Reverse Engineer (Malware • Mobile • Desktop)
 
-<!--
-**pmk1d/pmk1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Malware reverse • Android/iOS reverse • Windows/Linux/macOS reverse  
+Static & dynamic analysis • deobfuscation • unpacking • tooling  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- **Malware RE**: triage → behavior → config extraction → IOCs / defensive rules
+- **Mobile RE**: Android (DEX/ART, JNI) • iOS (Mach-O, ObjC/Swift) • Frida
+- **Desktop RE**: native code, packers, anti-debug/anti-VM, protocol reversing
+- **Automation**: scripts & plugins to speed up analysis and reporting
+
+---
+
+## Contact
+- Email: `contact.pmk1d@gmail.com`
+- Telegram: `@pmk1d`
+- Blog/Notes (optional): `https://171.io/pmk1d/`
