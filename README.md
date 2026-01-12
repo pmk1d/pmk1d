@@ -12,4 +12,4 @@ Static & dynamic analysis • deobfuscation • unpacking • tooling
 ## Contact
 - Email: `contact.pmk1d@gmail.com`
 - Telegram: `@pmk1d`
-- Blog/Notes (optional): `https://171.io/pmk1d/`
+- Blog/Notes: `https://171.io/pmk1d/`
