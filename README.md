@@ -2,8 +2,6 @@
 
 Beginner in **Malware Research** and **Machine Learning**.  
 
----
-
 ## What I’m focusing on
 ### 🧪 Malware Research (beginner)
 - File triage: metadata, sections, imports, strings, basic heuristics
@@ -15,14 +13,10 @@ Beginner in **Malware Research** and **Machine Learning**.
 - Feature engineering for security data (counts, stats, simple n-grams)
 - Reproducible experiments: notebook → script → repeatable run
 
----
-
 ## Tools I use / explore
 **RE:** Ghidra/IDA, x64dbg/WinDbg, LLDB, radare2  
 **ML/Data:** Python, pandas, scikit-learn, PyTorch, Jupyter  
 **Ops:** Docker, GitHub Actions (lint/tests)
-
----
 
 ## Contact
 - Email: `contact.pmk1d@gmail.com`
