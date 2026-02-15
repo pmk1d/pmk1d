@@ -3,12 +3,12 @@
 Beginner in **Malware Research** and **Machine Learning**.  
 
 ## What I’m focusing on
-### 🧪 Malware Research (beginner)
+### Malware Research (beginner)
 - File triage: metadata, sections, imports, strings, basic heuristics
 - Static vs dynamic analysis: building evidence, not guesses
 - Turning findings into defensive outputs: **IOCs**, **YARA/Sigma drafts**, short reports
 
-### 🤖 Machine Learning (beginner)
+### Machine Learning (beginner)
 - Solid fundamentals: baselines, leakage-aware splits, reliable evaluation
 - Feature engineering for security data (counts, stats, simple n-grams)
 - Reproducible experiments: notebook → script → repeatable run
